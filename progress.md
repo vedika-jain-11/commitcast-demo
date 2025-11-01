@@ -1,1 +1,1 @@
-Status: ready
+Status: shipping
